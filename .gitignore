@@ -1,0 +1,10 @@
+node_modules/
+.env
+public/uploads/originals/*
+public/uploads/display/*
+public/uploads/thumbnails/*
+!public/uploads/originals/.gitkeep
+!public/uploads/display/.gitkeep
+!public/uploads/thumbnails/.gitkeep
+data/*.db
+*.log
